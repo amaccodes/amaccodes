@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is 
 
 # 👨🏾‍💻 Aaron McDonald
 
@@ -28,14 +28,11 @@
 
 ## 🚀 Featured Projects
 
-### 📱 [fruitful. – The Prayer App](https://github.com/YOURUSERNAME/fruitful)
+### 📱 [fruitful. – The Prayer App (Beta testing at Harvard College)]
 Building the world’s first deeply intimate and habitual Christian prayer app for Gen Z. Designed for daily spiritual consistency and emotional honesty — blending **AI**, **beautiful design**, and **community features**.
 
 ### 🌿 [City of Boston Greenhouse Gas Emissions Study](https://www.hodp.org/project/understanding-greenhouse-gas-emissions-in-boston-across-departments)
 Analyzed Boston’s greenhouse gas emissions by department using Python, Pandas, and Matplotlib. Helped identify opportunities for policy-driven sustainability initiatives.
-
-### ✈️ [British Airways Reviews Dashboard](https://public.tableau.com/app/profile/aaron.mcdonald8412/vizzes)
-Interactive Tableau dashboard visualizing customer reviews with 3 dynamic views: bar graphs, 2D category averages, and a global map.
 
 ### 🚢 [Titanic Dataset – ML Prediction Project](https://colab.research.google.com/drive/1zTB6EPMku5khhe820P2vU4G9CnKYIn0U?usp=sharing)
 Machine learning analysis using **Random Forests** to predict survival rates on the Titanic dataset. Leveraged Python, SQL, and Tableau for modeling and visualization.
