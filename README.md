@@ -43,7 +43,7 @@ Machine learning analysis using **Random Forests** to predict survival rates on 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/profile/preview?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mcdonald-30a138257/)
 [![Email](https://img.shields.io/badge/Email-amcdonald%40college.harvard.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amcdonald@college.harvard.edu)
 
 > *"I believe in building technology that solves real problems for real people."*
