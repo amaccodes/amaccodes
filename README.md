@@ -1,5 +1,3 @@
-## Hi there 👋 My name is 👨🏾‍💻 Aaron McDonald
-
 ## 📖 About Me
 - 🎓 Junior at **Harvard University**, studying **Statistics (Machine Learning Track)**.  
 - 🏈 Former walk-on **NCAA Division I Football OLB** & **2x Ivy League Champion**.  
