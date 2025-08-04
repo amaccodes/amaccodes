@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mcdonald-30a138257/)[![Email](https://img.shields.io/badge/Email-amcdonald%40college.harvard.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amcdonald@college.harvard.edu)
 - 🎓 Junior at **Harvard University**, studying **Statistics (Machine Learning Track)**.  
 - 🏈 Former walk-on **NCAA Division I Football OLB** & **2x Ivy League Champion**.  
-- 🛠️ Passionate about **AI, product design, and building meaningful software**. 
+- 🛠️ Passionate about **AI, product design, and building meaningful software**. I am interested in AI startups and fast-paced cutting-edge companies.
 - ⚡ Fun fact: I’m a triplet.
 
 ## 🛠️ Skills & Tools
@@ -24,13 +24,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🚀 Featured Projects
-
 ### 📱 [fruitful. – The Prayer App (Beta testing at Harvard College)]
 Building the world’s first deeply intimate and habitual Christian prayer app for Gen Z. Designed for daily spiritual consistency and emotional honesty — blending **AI**, **beautiful design**, and **community features**.
 
 ### 🌿 [City of Boston Greenhouse Gas Emissions Study](https://www.hodp.org/project/understanding-greenhouse-gas-emissions-in-boston-across-departments)
 Analyzed Boston’s greenhouse gas emissions by department using Python, Pandas, and Matplotlib. Helped identify opportunities for policy-driven sustainability initiatives.
-
----
-
-> *"I believe in building technology that solves real problems for real people."*
