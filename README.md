@@ -1,9 +1,9 @@
-## 📖 About Me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mcdonald-30a138257/)[![Email](https://img.shields.io/badge/Email-amcdonald%40college.harvard.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amcdonald@college.harvard.edu)
+## 📖 About Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mcdonald-30a138257/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-amcdonald%40college.harvard.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amcdonald@college.harvard.edu)
 - 🎓 Junior at **Harvard University**, studying **Statistics (Machine Learning Track)**.  
 - 🏈 Former walk-on **NCAA Division I Football OLB** & **2x Ivy League Champion**.  
-- 🛠️ Passionate about **AI, product design, and building meaningful software**. I am interested in AI startups and fast-paced cutting-edge companies.
-- ⚡ Fun fact: I’m a triplet.
+- 🛠️ Passionate about **AI, product design, and building meaningful software**.
 
 ## 🛠️ Skills & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
