@@ -2,11 +2,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-mcdonald-30a138257/)[![Email](https://img.shields.io/badge/Email-amcdonald%40college.harvard.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amcdonald@college.harvard.edu)
 - 🎓 Junior at **Harvard University**, studying **Statistics (Machine Learning Track)**.  
 - 🏈 Former walk-on **NCAA Division I Football OLB** & **2x Ivy League Champion**.  
-- 🛠️ Passionate about **AI, product design, and building meaningful software**.  
-- 📱 Founder of **fruitful.**, a Christian prayer app designed to bring spiritual consistency and emotional honesty to Gen Z.
+- 🛠️ Passionate about **AI, product design, and building meaningful software**. 
 - ⚡ Fun fact: I’m a triplet.
-
----
 
 ## 🛠️ Skills & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,9 +22,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
----
 
 ## 🚀 Featured Projects
 
