@@ -20,7 +20,7 @@ Junior at **Harvard University**, studying **Statistics (Machine Learning Track)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 🚀 Featured Projects
-### 📱 [a Prayer App (Beta testing at Harvard College)]
+### 📱 I'm buidling a Prayer App (Beta testing at Harvard College)
 Building the world’s first deeply intimate and habitual Christian prayer app for Gen Z. Designed for daily spiritual consistency and emotional honesty — blending **AI**, **beautiful design**, and **community features**.
 
 ### 🌿 [We wrote an Article! City of Boston Greenhouse Gas Emissions Study](https://www.hodp.org/project/understanding-greenhouse-gas-emissions-in-boston-across-departments)
