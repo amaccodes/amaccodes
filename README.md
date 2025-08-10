@@ -25,5 +25,5 @@
 ### 📱 [a Prayer App (Beta testing at Harvard College)]
 Building the world’s first deeply intimate and habitual Christian prayer app for Gen Z. Designed for daily spiritual consistency and emotional honesty — blending **AI**, **beautiful design**, and **community features**.
 
-### 🌿 [City of Boston Greenhouse Gas Emissions Study](https://www.hodp.org/project/understanding-greenhouse-gas-emissions-in-boston-across-departments)
+### 🌿 [We wrote an Article! City of Boston Greenhouse Gas Emissions Study](https://www.hodp.org/project/understanding-greenhouse-gas-emissions-in-boston-across-departments)
 Analyzed Boston’s greenhouse gas emissions by department using Python, Pandas, and Matplotlib. Helped identify opportunities for policy-driven sustainability initiatives.
